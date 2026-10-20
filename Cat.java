@@ -11,6 +11,13 @@ public class Cat extends Pet {
         super(name);
     }
 
+        /**
+        Prints the name of the cat followed by "purrs happily!"
+        */
+    public void purr() {
+        System.out.println(getName() + " purrs happily!");
+    }
+
 	/**
 	Prints the name of the cat followed by "says: Meow!"
 	*/
