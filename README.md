@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Bella Chan>
+Bella Chan
 
-<Blaine Hooper>
+Blaine Hooper
 
 ## Run from Git Bash
 
