@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+<Bella Chan>
 
-<Enter Name 2 Here>
+<Blaine Hooper>
 
 ## Run from Git Bash
 
